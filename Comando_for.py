@@ -2,7 +2,7 @@
 C_p=0
 C_i=0
 
-for i in range (1,21):
+for i in range (1,8):
     n=int(input("Digite el numero "+str(i)+":"))
     m=n%2
     if m==0:
@@ -10,4 +10,4 @@ for i in range (1,21):
     else:
         C_i=C_i+1
 #output
-print("Losnumeros pares son:"+str(C_p))
+print("Losnumeros pares son"+C_p+str(n))
