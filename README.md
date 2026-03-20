@@ -1,2 +1,4 @@
-# comando_for
-taller de uso del comando for para numeros pares e impares
+# COMANDO FOR
+- taller para aprender sobre el uso del comando for
+## DIGRAMA DE FLUJO
+![Comando_for](Comando_for.png)
